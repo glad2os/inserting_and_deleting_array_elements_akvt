@@ -1,0 +1,8 @@
+/.idea/
+/bin/
+/obj/
+/Properties/
+/packages/
+*.sln
+*.sln.DotSettings.user
+*.csproj
